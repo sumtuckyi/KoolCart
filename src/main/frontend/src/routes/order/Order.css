@@ -1,0 +1,8 @@
+.product-list::-webkit-scrollbar {
+    display: none;
+}
+
+.product-list {
+    overflow: hidden;
+    height: 100vh;
+}

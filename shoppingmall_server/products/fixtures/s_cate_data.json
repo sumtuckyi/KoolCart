@@ -1,0 +1,246 @@
+[{
+	"model": "products.SmallCategory",
+	"pk": 1,
+	"fields": {
+		"name": "감자",
+		"upper_cate": 1
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 2,
+	"fields": {
+		"name": "당근",
+		"upper_cate": 1
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 3,
+	"fields": {
+		"name": "양파",
+		"upper_cate": 1
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 4,
+	"fields": {
+		"name": "대파",
+		"upper_cate": 1
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 5,
+	"fields": {
+		"name": "콩나물",
+		"upper_cate": 1
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 6,
+	"fields": {
+		"name": "버섯",
+		"upper_cate": 1
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 7,
+	"fields": {
+		"name": "사과",
+		"upper_cate": 2
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 8,
+	"fields": {
+		"name": "바나나",
+		"upper_cate": 2
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 9,
+	"fields": {
+		"name": "방울토마토",
+		"upper_cate": 2
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 10,
+	"fields": {
+		"name": "파인애플",
+		"upper_cate": 2
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 11,
+	"fields": {
+		"name": "오징어•낙지•문어",
+		"upper_cate": 3
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 12,
+	"fields": {
+		"name": "전복•조개",
+		"upper_cate": 3
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 13,
+	"fields": {
+		"name": "새우•게",
+		"upper_cate": 3
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 14,
+	"fields": {
+		"name": "생선류",
+		"upper_cate": 3
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 15,
+	"fields": {
+		"name": "소고기",
+		"upper_cate": 4
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 16,
+	"fields": {
+		"name": "돼지고기",
+		"upper_cate": 4
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 17,
+	"fields": {
+		"name": "닭•오리고기",
+		"upper_cate": 4
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 18,
+	"fields": {
+		"name": "소시지•베이컨•하몽",
+		"upper_cate": 4
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 19,
+	"fields": {
+		"name": "계란",
+		"upper_cate": 4
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 20,
+	"fields": {
+		"name": "탕•찌개",
+		"upper_cate": 5
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 21,
+	"fields": {
+		"name": "김치•젓갈•장류",
+		"upper_cate": 5
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 22,
+	"fields": {
+		"name": "두부•어묵",
+		"upper_cate": 5
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 23,
+	"fields": {
+		"name": "생수",
+		"upper_cate": 6
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 24,
+	"fields": {
+		"name": "탄산수",
+		"upper_cate": 6
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 25,
+	"fields": {
+		"name": "주스",
+		"upper_cate": 6
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 26,
+	"fields": {
+		"name": "커피",
+		"upper_cate": 6
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 27,
+	"fields": {
+		"name": "초콜릿",
+		"upper_cate": 7
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 28,
+	"fields": {
+		"name": "젤리",
+		"upper_cate": 7
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 29,
+	"fields": {
+		"name": "캔디",
+		"upper_cate": 7
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 30,
+	"fields": {
+		"name": "쿠키",
+		"upper_cate": 7
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 31,
+	"fields": {
+		"name": "우유",
+		"upper_cate": 8
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 32,
+	"fields": {
+		"name": "두유",
+		"upper_cate": 8
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 33,
+	"fields": {
+		"name": "요거트",
+		"upper_cate": 8
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 34,
+	"fields": {
+		"name": "치즈",
+		"upper_cate": 8
+	}
+},{
+	"model": "products.SmallCategory",
+	"pk": 35,
+	"fields": {
+		"name": "아이스크림",
+		"upper_cate": 8
+	}
+}]

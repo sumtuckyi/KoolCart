@@ -1,0 +1,49 @@
+[{
+	"model": "products.MajorCategory",
+	"pk": 1,
+	"fields": {
+		"name": "채소"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 2,
+	"fields": {
+		"name": "과일"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 3,
+	"fields": {
+		"name": "해산•건어물"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 4,
+	"fields": {
+		"name": "정육•가공육•계란"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 5,
+	"fields": {
+		"name": "국•반찬•메인요리"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 6,
+	"fields": {
+		"name": "생수•음료•커피"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 7,
+	"fields": {
+		"name": "간식"
+	}
+},{
+	"model": "products.MajorCategory",
+	"pk": 8,
+	"fields": {
+		"name": "유제품"
+	}
+}]

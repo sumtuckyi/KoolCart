@@ -1,0 +1,29 @@
+#Server port
+server:
+  port: 8080
+  address: 0.0.0.0
+
+spring:
+  #MySQL
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # msgs cloud DB Info
+    url: jdbc:mysql://i10a101.p.ssafy.io:3306/koolCart
+    username: ssafy101
+    password: 111
+
+  #File Upload
+  servlet:
+    multipart: 
+      enabled: true 
+      max-file-size: 5MB
+  # JPAjpa:
+    hibernate:
+      ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+
+  profiles:
+    include: api

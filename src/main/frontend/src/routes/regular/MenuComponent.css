@@ -1,0 +1,5 @@
+.ant-menu-submenu-popup{
+    position: relative;
+    z-index: 1700; /* modal보다 위에 위치시킴 */
+    width: fit-content;
+}

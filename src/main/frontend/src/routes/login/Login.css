@@ -1,0 +1,48 @@
+.lo-modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.lo-modal-content {
+    background-color: white;
+    border-radius: 5px;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.lo-modal-image {
+    width: 80px;
+    height: auto;
+    margin-right: 30px;
+  }
+  
+.lo-modal-text {
+    width: 300px;
+    padding: 8px;
+    text-align: center;
+  }
+  
+.losmallcon {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.lookbutton {
+    
+    margin: 10px auto;
+    width: 66px;
+    padding: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(55, 100, 246);
+    font-size: 14px;
+    color: white;
+    }
+

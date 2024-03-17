@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+    :root {
+      --initial-brightness-mobile: 100%; 
+      filter: brightness(var(--initial-brightness-mobile));
+    }
+  }
+  
+  @media (min-width: 601px) {
+    :root {
+      --initial-brightness-display: 0%; 
+      filter: brightness(var(--initial-brightness-display));
+    }
+  }
+  
